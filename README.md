@@ -1,6 +1,4 @@
-# Bem vindo ao meu perfil! #
-### Meu nome é Arnaldo, estou estudando para ser desenvolvedor full-stack. <br>
-Faço curso no SENAI e no B7Web.
+
 
 
 <div style="display: inline_block"><br>
